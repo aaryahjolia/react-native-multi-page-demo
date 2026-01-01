@@ -7,20 +7,20 @@ This project demonstrates the fundamentals of React Native through three small a
 
 ## 📱 Pages / Features
 
-### 1️⃣ Counter Page
+### 1. Counter Page
 - Increment and decrement a number
 - Demonstrates **state management** with `useState`
 - Reset functionality (optional)
 - Clean and responsive UI
 
-### 2️⃣ Quotes Page
+### 2. Quotes Page
 - Fetches a random quote from an API
 - Shows **loading state** while fetching
 - Handles **errors gracefully**
 - Displays **quote author**
 - Button to fetch a new quote
 
-### 3️⃣ Todo App
+### 3. Todo App
 - Add new tasks
 - Mark tasks as **completed**
 - Delete tasks
@@ -47,14 +47,18 @@ This project demonstrates the fundamentals of React Native through three small a
 ```bash
 git clone https://github.com/aaryahjolia/react-native-multi-page-demo.git
 cd react-native-multi-page-demo
+```
 
 ### 2. Install dependencies
+```
 npm install
-
+```
 ### 3. Run the app
+```
 npx expo start
+```
 
-Scan the QR code with your Expo Go app (iOS/Android)
+Now, Scan the QR code with your Expo Go app (iOS/Android)
 Or run in web/mobile simulator
 
 
