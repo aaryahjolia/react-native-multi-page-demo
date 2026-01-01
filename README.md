@@ -63,7 +63,8 @@ Now, scan the QR code with your Expo Go app (iOS/Android) or run in a web/mobile
 
 ### 🎥 Demo Video
 
-<video src="assets/Demo.mov" controls width="300"></video>
+[![App Demo](assets/demo-preview.png)](https://github.com/user-attachments/assets/8d2df5d1-4988-465b-8d0e-25c3325ab6e6)
+
 
 
 ## 🎯 Learning Goals
