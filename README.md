@@ -58,8 +58,12 @@ npm install
 npx expo start
 ```
 
-Now, Scan the QR code with your Expo Go app (iOS/Android)
-Or run in web/mobile simulator
+Now, scan the QR code with your Expo Go app (iOS/Android) or run in a web/mobile simulator
+
+
+### 🎥 Demo Video
+
+<video src="assets/Demo.mov" controls width="300"></video>
 
 
 ## 🎯 Learning Goals
