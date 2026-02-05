@@ -8,9 +8,9 @@ This project demonstrates the fundamentals of React Native through three small a
 ## 📱 Pages / Features
 
 ### 1. Counter Page
-- Increment and decrement a number
+- Increment a click counter
 - Demonstrates **state management** with `useState`
-- Reset functionality (optional)
+- Reset functionality
 - Clean and responsive UI
 
 ### 2. Quotes Page
